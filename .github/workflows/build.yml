@@ -9,9 +9,9 @@ on:
     - master
 
 env:
-  PUBLIC_NAME: PingPlugin
-  SOLUTION_NAME: PingPlugin
-  INTERNAL_NAME: PingPlugin
+  PUBLIC_NAME: PingPluginCustom
+  SOLUTION_NAME: PingPluginCustom
+  INTERNAL_NAME: PingPluginCustom
   RELEASE_DIR: PingPlugin\bin\x64\Release\PingPluginCustom
   PERSONAL_PLUGIN_REPO: Maxunit/MyDalamudPlugins
   PR_PLUGIN_REPO: Maxunit/DalamudPlugins
