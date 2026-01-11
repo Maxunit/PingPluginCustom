@@ -12,7 +12,7 @@ env:
   PUBLIC_NAME: PingPlugin
   SOLUTION_NAME: PingPlugin
   INTERNAL_NAME: PingPlugin
-  RELEASE_DIR: bin\x64\Release\PingPlugin
+  RELEASE_DIR: PingPlugin\bin\x64\Release
   PERSONAL_PLUGIN_REPO: Maxunit/MyDalamudPlugins
   PR_PLUGIN_REPO: Maxunit/DalamudPlugins
   DOTNET_CLI_TELEMETRY_OPTOUT: true
